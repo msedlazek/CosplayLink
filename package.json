@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/msedlazek/CosplayLink/issues"
   },
-  "homepage": "https://github.com/msedlazek/CosplayLink#readme"
+  "homepage": "https://github.com/msedlazek/CosplayLink#readme",
+  "dependencies": {
+    "babel-register": "^6.24.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-scripts": "^0.9.5"
+  }
 }
