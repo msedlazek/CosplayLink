@@ -12,9 +12,7 @@ As it currently stands, the app will not make use of a database simply because t
 USER ACQUISITION:
 The idea in getting our first few users is to market directly to the cosplay communities. Comic Con provides an excellent opportunity to reach out directly to potential users. The Replica Prop Forum is another venue that can be used to market the app. Also, direct marketing within larp communities will gain users as well.
 
-BASIC FLOW:
+BASIC FLOW SKETCH:
 
-APP
--Button 1
--Button 2   ---->   Recieves Input From User ------> On-Board CPU Generates Response ------> End Point Devices Activate.
--Button 3
+APP:
+-Button 1   ---->   Recieves Input From User ------> On-Board CPU Generates Response ------> End Point Devices Activate.
