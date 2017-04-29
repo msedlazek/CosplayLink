@@ -1,5 +1,5 @@
 {
-  "name": "cosplaylink",
+  "name": "statinator",
   "version": "1.0.0",
   "description": "Wearable app that will connect via Pi to an array of end point devices.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/msedlazek/CosplayLink.git"
+    "url": "git+https://github.com/msedlazek/Statinator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/msedlazek/CosplayLink/issues"
+    "url": "https://github.com/msedlazek/Statinator/issues"
   },
-  "homepage": "https://github.com/msedlazek/CosplayLink#readme",
+  "homepage": "https://github.com/msedlazek/Statinator#readme",
   "dependencies": {
     "babel-register": "^6.24.1",
     "react": "^15.5.4",
